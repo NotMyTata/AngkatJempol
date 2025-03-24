@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BET1</string>
+    <string name="main_title">Angkat Jempol</string>
+    <string name="creation_text">Enter your player name:</string>
+    <string name="creation_hint">Type here...</string>
+    <string name="preference_key">com.example.BET1.alamak123</string>
+    <string name="preference_existing_profile_key">profileExisted</string>
+    <string name="match_turn_text_player">Your Turn</string>
+    <string name="match_turn_text_opponent">Opponent Turn</string>
+    <string name="match_turn_desc_player">Guess the Number</string>
+    <string name="match_turn_desc_opponent">Opponent is guessing</string>
+    <string name="match_guess_number">0</string>
+</resources>
